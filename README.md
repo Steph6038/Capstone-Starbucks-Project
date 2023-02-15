@@ -16,11 +16,7 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 - math
 - json
 - matplotlib
-- seaborn
-- sklearn.model_selection (train_test_split module)
-- sklearn.preprocessing (StandardScaler )
-- tensorflow
-- keras 
+- seaborn 
 
 ## File Descriptions
 This repo contains 4 files. 
@@ -44,7 +40,7 @@ This repo contains 4 files.
         offer_type: (string) bogo, discount, informational
         id: (string/hash)
 
-   - transcript.json
+   - transcript.json (https://www.kaggle.com/datasets/blacktile/starbucks-app-customer-reward-program-data?resource=download)
         Event log (306648 events x 4 fields)
         person: (string/hash)
         event: (string) offer received, offer viewed, transaction, offer completed
